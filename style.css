@@ -85,3 +85,9 @@ h1{
 .link-color{
     color: white;
 }
+.text-color{
+    font-size: 150%;
+}
+footer p{
+text-align: center;
+}
